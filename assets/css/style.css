@@ -1985,12 +1985,12 @@ section {
 #footer {
   color: #fff;
   font-size: 14px;
-  background: #c96;
+  background: #0c2340;
 }
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #c96;
+  background: #0c2340;
 }
 
 #footer .footer-top .footer-contact {
@@ -2004,7 +2004,7 @@ section {
 }
 
 #footer .footer-top .footer-contact h3 span {
-  color: #2596be;
+  color: #f0c040;
 }
 
 #footer .footer-top .footer-contact p {
@@ -2027,7 +2027,7 @@ section {
   display: block;
   width: 20px;
   height: 2px;
-  background: #2596be;
+  background: #f0c040;
   bottom: 0;
   left: 0;
 }
