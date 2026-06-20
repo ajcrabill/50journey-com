@@ -1,16 +1,36 @@
 ---
 layout: base
-title: "Our Tools They Deserve"
-summary: "Our Tools They Deserve"
+title: "The 50% Journey"
+summary: "Why The Future Doesn't Change, How You Can Rewrite The Future"
 toplevel: Book
-# toplevellink: /book
 ---
+
 <center>
-<h4>In October, my new book, "Our Tools They Deserve" comes out. This book is about how we can better position students to experience and achieve their full potential.</h4><br/>
+<h2><strong>The 50% Journey</strong></h2>
+<h4><em>Why The Future Doesn't Change, How You Can Rewrite The Future</em></h4>
+<h5>by airick journey crabill</h5>
+<br/>
 
-<h4>Use the links below to read the introduction to the book, be notified via email when the book comes out, or watch a video about the work described in the book.</h4><br/><br/>
+<p style="max-width:680px;margin:0 auto 2em;">
+Humans don't feel wetness. We interpret it — our brains infer the sensation from temperature and pressure. And we do the same thing with our lives. We observe a moment and assign it meaning, often without realizing it. Over time, we build a future inside those interpretations, mistaking the story for reality.
+</p>
 
-<a href="https://tinyurl.com/Our-Tools-They-Deserve-Intro" class="get-started-btn scrollto">Read The Intro</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://tinyurl.com/OTTD-Signup" class="get-started-btn scrollto">Be Notified</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://youtu.be/CKJW-tvN5gs" class="get-started-btn scrollto">Watch A Video</a>
+<p style="max-width:680px;margin:0 auto 2em;">
+<em>The 50% Journey</em> is a 90-day practice for examining the stories that are writing your future — and beginning to rewrite them. The name carries two meanings: the gap between what you intend and what actually happens, and the roughly half of your waking hours that are discretionary — where your real choices live. Close the first gap, and you reclaim the second.
+</p>
+
+<p style="max-width:680px;margin:0 auto 2em;">
+This is not a motivation book. It's a practice guide for people who already know what they want but keep finding themselves living something else.
+</p>
+
+<br/>
+<h5>What You'll Work Through</h5>
+<p style="max-width:680px;margin:0 auto 2em;">
+<strong>Part I: Why The Future Doesn't Change</strong> — The four forces that keep your future already written: knowledge, skill, mindset, and identity.<br/><br/>
+<strong>Part II: How You Can Rewrite The Future</strong> — A four-step practice: Focus your mindset and identity, Clarify your priorities, Monitor your progress, and Practice collaboration.<br/><br/>
+<strong>Part III: After the First Sprint</strong> — What sustaining transformation looks like after the initial 90 days.
+</p>
+
+<br/>
+<a href="https://tinyurl.com/50Journey-book" class="get-started-btn scrollto">Get The Book</a>
 </center>
