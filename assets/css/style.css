@@ -104,11 +104,11 @@ h6 {
 }
 
 #header .logo a {
-  color: #111111;
+  color: #ffffff;
 }
 
 #header .logo a span {
-  color: #2D6B90;
+  color: #C8922A;
 }
 
 #header .logo img {
@@ -195,7 +195,7 @@ h6 {
   font-family: "Raleway", sans-serif;
   font-size: 15px;
   font-weight: 600;
-  color: #111111;
+  color: #ffffff;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -211,7 +211,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #2D6B90;
+  color: #C8922A;
 }
 
 .navbar .dropdown ul {
@@ -281,7 +281,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #111111;
+  color: #ffffff;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -2156,7 +2156,7 @@ section {
 }
 
 .footer-contact .email-addresses a, .footer-contact .email-addresses a:visited {
-  color: #5A8DAE;
+  color: #7DC0E0;
 }
 
 .footer-contact .email-addresses a:hover {
