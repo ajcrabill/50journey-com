@@ -32,5 +32,5 @@ This is not a motivation book. It's a practice guide for people who already know
 </p>
 
 <br/>
-<a href="https://tinyurl.com/50Journey-book" class="get-started-btn scrollto">Get The Book</a>
+<!--<a href="https://tinyurl.com/50Journey-book" class="get-started-btn scrollto">Get The Book</a>-->
 </center>
